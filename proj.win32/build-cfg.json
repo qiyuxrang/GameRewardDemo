@@ -1,0 +1,7 @@
+{
+    "win32": {
+        "cppPaths": ["Classes"],
+        "resPaths": ["Resources"],
+        "engineDir": "cocos2d"
+    }
+}
